@@ -1,0 +1,9 @@
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Developments\Assensia.BI.Portal.Central-Caching\Assensia.BI.Caching\bin\Debug\Assensia.BI.Caching.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Developments\Assensia.BI.Portal.Central-Caching\Assensia.BI.Caching\bin\Debug\Assensia.BI.Caching.pdb
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Developments\Assensia.BI.Portal.Central-Caching\Assensia.BI.Caching\obj\Debug\Assensia.BI.Caching.dll
+D:\TFS2013\Assensia.Online\Assensia.BI\Portal\Developments\Assensia.BI.Portal.Central-Caching\Assensia.BI.Caching\obj\Debug\Assensia.BI.Caching.pdb
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\bin\Debug\Assensia.BI.Caching.dll
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\bin\Debug\Assensia.BI.Caching.pdb
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\obj\Debug\Assensia.BI.Caching.csprojResolveAssemblyReference.cache
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\obj\Debug\Assensia.BI.Caching.dll
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\obj\Debug\Assensia.BI.Caching.pdb

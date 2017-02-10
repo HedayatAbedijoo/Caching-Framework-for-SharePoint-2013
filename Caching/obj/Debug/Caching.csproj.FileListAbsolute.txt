@@ -1,0 +1,29 @@
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\bin\Debug\Caching.dll
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\bin\Debug\Caching.pdb
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\obj\Debug\Caching.dll
+C:\Users\hedayat.abedijoo\Documents\Visual Studio 2013\Projects\TestCaching - Article\Caching\obj\Debug\Caching.pdb
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Caching.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Caching.pdb
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\bin\Debug\Microsoft.SharePoint.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\obj\Debug\Caching.dll
+D:\TFS\HedayatWebsites\TestCaching - Article\Caching\obj\Debug\Caching.pdb
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Caching.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Caching.pdb
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.ApplicationServer.Caching.Client.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.ApplicationServer.Caching.Core.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\bin\Debug\Microsoft.SharePoint.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\obj\Debug\Caching.dll
+D:\TFS\OtherProjects\TestCaching - Article\Caching\obj\Debug\Caching.pdb
